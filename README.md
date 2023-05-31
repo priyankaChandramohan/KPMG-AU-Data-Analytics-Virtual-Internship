@@ -12,7 +12,7 @@ The main objectives of the virtual internship are as follows:
 - Develop meaningful visualizations and dashboards to effectively communicate insights.
 - Provide actionable recommendations based on the data analysis to address the client's business challenges.
 
-## This repository is organized as follows:
+### This repository is organized as follows:
 - 1.Data Quality Assessment/: This directory contains:
   - the dataset provided for the internship project
   - a folder containing the cleaned data in .csv format with its .ipynb file containing the code and documentation
@@ -26,4 +26,18 @@ The main objectives of the virtual internship are as follows:
 - Certificate of Completion_Priyanka Chandramohan: This contains the certificate of completion from KPMG AU and Forage.
 - README.md: This file provides an overview of the internship and repository.
 
+## Tasks and Solutions
+Throughout the virtual internship, I have completed a series of tasks, implementing the necessary data analysis and visualization techniques. Each task is documented in the respective Jupyter Notebook within the first two directories. Additionally, the visualizations and dashboards generated during the internship can be found in the 3. Data Insights and Presentation/ directory.
+
+## Getting Started
+To explore the solutions and projects in this repository, you can clone the repository locally:
+
+``git clone https://github.com/your-username/kpmg-au-data-analytics-internship.git``
+
+Feel free to navigate through the notebooks and visualizations to understand the workflow and the insights derived from the data.
+
+## Acknowledgements
+I would like to express my gratitude to KPMG and Forage for providing this virtual internship opportunity and the resources necessary to enhance my data analytics skills. This internship has been a valuable learning experience, allowing me to apply theoretical knowledge to a real-world project.
+
+Please note that the datasets and project materials provided in this repository are for educational purposes only and belong to KPMG and Forage.
 
